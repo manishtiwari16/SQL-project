@@ -12,8 +12,6 @@ resulting in actionable insights such as
 
 **Top 3 Most Ordered Pizza Types Based on Revenue:** Identifying the top-selling pizza types based on revenue highlights which menu items contribute the most to the business's bottom line. This information can guide menu optimization, pricing strategies, and marketing campaigns to capitalize on popular choices.
 
-**Cumulative Revenue Generated Over Time**: Analyzing the cumulative revenue generated over time provides a macroscopic view of the business's financial performance. It helps in tracking growth trends, evaluating the impact of promotions or seasonal variations, and setting realistic revenue targets.
-
 **Top 3 Most Ordered Pizza Types Based on Revenue for Each Pizza Category:** This analysis drills down further into the top-selling pizzas within each category, offering insights into which specific types drive revenue within their respective categories. This information can inform menu engineering decisions, promotional offers, and upselling strategies tailored to each category's audience.
 
 Overall, these analyses provide a comprehensive understanding of pizza sales dynamics, enabling data-driven decision-making to optimize operations, enhance customer satisfaction, and drive profitability.
